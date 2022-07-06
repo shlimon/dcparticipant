@@ -153,8 +153,12 @@
     right: 2rem;
     width:60px;
     height:60px;
-    background-color:#dc5d62;
+    background-color:#610C63;
     border-radius:50px;
+  }
+
+  .fa-phone{
+    color:#76BA99 ;
   }
   
   .phone i{
