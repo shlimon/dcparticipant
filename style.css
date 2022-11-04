@@ -189,7 +189,7 @@
   .back{
     background-color: #610C63;
     width: 100%;
-    position: fixed;
+    
   }
 
   .back-arrow{
@@ -198,3 +198,25 @@
     margin: 2px 2px;
   }
 
+  .mapouter{
+    margin: auto ;
+  }
+
+  .btn{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+
+  .contact-btn{
+    width: 150px;
+    height: 30px;
+    margin: 10px;
+    background-color:#38A3A5 ;
+    border-radius: 10px;
+  }
+
+  .contact-btn a{
+    text-decoration: none;
+    color:#FFF8F3;
+  }
