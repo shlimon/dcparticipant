@@ -186,3 +186,14 @@
     display: block;
   }
 
+  .back{
+    background-color: #610C63;
+    position: fixed;
+  }
+
+  .back-arrow{
+    width: 4rem;
+    height: 4rem;
+    margin: 2px 2px;
+  }
+
